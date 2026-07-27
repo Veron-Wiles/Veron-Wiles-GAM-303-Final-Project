@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ace496c27a5b8e0e1dc63f51bf8121042ab6b9ac0f3f18c564b3e909e98e0c7
-size 1504
+[176740:160664:0727/182955.178:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[176740:160664:0727/182955.352:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[178512:189092:0727/183002.670:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ECFF8B196421FE8E46E5573CF72C4F8F will be ignored
+[176740:123308:0727/183004.092:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[176740:123308:0727/183004.217:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[176740:160664:0727/183555.688:ERROR:device_event_log_impl.cc(196)] [18:35:55.439] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[176740:160664:0727/183757.177:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1991f6274702b221d5adb88607fce1ba5513fee6f9ae007b20d97e79a4cd409b
-size 114
+{
+  "manifest_version": 2,
+  "name": "Subresource Filtering Rules",
+  "ruleset_format": 1,
+  "version": "9.70.0"
+}

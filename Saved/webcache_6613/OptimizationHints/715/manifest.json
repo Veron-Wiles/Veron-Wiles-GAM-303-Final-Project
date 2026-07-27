@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f361953cc3224e8ef309d3f1f1eb66f2b7c4be7d7b457093d0c5e8f999f08f5
-size 108
+{
+  "manifest_version": 2,
+  "name": "Optimization Hints",
+  "version": "715",
+  "ruleset_format": "1.0.0"
+}
