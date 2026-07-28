@@ -1,7 +1,50 @@
-[176740:160664:0727/182955.178:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[176740:160664:0727/182955.352:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[178512:189092:0727/183002.670:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ECFF8B196421FE8E46E5573CF72C4F8F will be ignored
-[176740:123308:0727/183004.092:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[176740:123308:0727/183004.217:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[176740:160664:0727/183555.688:ERROR:device_event_log_impl.cc(196)] [18:35:55.439] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[176740:160664:0727/183757.177:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[74760:189172:0727/211214.039:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[74760:189172:0727/211214.279:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[186952:182572:0727/211226.591:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E4CF1D5BE83D233CFFEECC9D17645ABF will be ignored
+[74760:173476:0727/211227.999:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[187520:135436:0727/211228.874:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187520:55376:0727/211228.977:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187520:55376:0727/211228.979:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187520:55376:0727/211228.981:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[74760:173476:0727/211230.890:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[74760:173476:0727/211231.418:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[74760:189172:0727/211231.550:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[74760:189172:0727/211231.550:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[74760:189172:0727/211231.550:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[74760:189172:0727/211231.550:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[74760:173476:0727/211231.563:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[187512:186604:0727/211233.234:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187512:177484:0727/211233.313:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187512:177484:0727/211233.313:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187512:177484:0727/211233.313:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187512:186604:0727/211241.924:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187512:186604:0727/211241.944:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187512:177484:0727/211241.961:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187512:177484:0727/211241.961:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[187512:177484:0727/211241.964:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[191448:183388:0727/211448.880:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[74760:189172:0727/211957.984:ERROR:device_event_log_impl.cc(196)] [21:19:57.759] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/212607.982:ERROR:device_event_log_impl.cc(196)] [21:26:02.402] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/215012.523:ERROR:device_event_log_impl.cc(196)] [21:50:12.430] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/215021.043:ERROR:device_event_log_impl.cc(196)] [21:50:21.007] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/215614.923:ERROR:device_event_log_impl.cc(196)] [21:56:14.776] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/220217.211:ERROR:device_event_log_impl.cc(196)] [22:02:17.200] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/220819.655:ERROR:device_event_log_impl.cc(196)] [22:08:19.487] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/220838.869:ERROR:device_event_log_impl.cc(196)] [22:08:38.850] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/221421.797:ERROR:device_event_log_impl.cc(196)] [22:14:21.741] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/222023.948:ERROR:device_event_log_impl.cc(196)] [22:20:23.931] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/222438.877:ERROR:device_event_log_impl.cc(196)] [22:24:38.857] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/222448.378:ERROR:device_event_log_impl.cc(196)] [22:24:48.369] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/223026.360:ERROR:device_event_log_impl.cc(196)] [22:30:26.338] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/223628.851:ERROR:device_event_log_impl.cc(196)] [22:36:28.719] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/223637.796:ERROR:device_event_log_impl.cc(196)] [22:36:37.772] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/224231.063:ERROR:device_event_log_impl.cc(196)] [22:42:31.001] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/224833.330:ERROR:device_event_log_impl.cc(196)] [22:48:33.320] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/225435.814:ERROR:device_event_log_impl.cc(196)] [22:54:35.803] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/225444.691:ERROR:device_event_log_impl.cc(196)] [22:54:44.651] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/230038.383:ERROR:device_event_log_impl.cc(196)] [23:00:38.098] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/230640.371:ERROR:device_event_log_impl.cc(196)] [23:06:40.359] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[74760:189172:0727/231242.892:ERROR:device_event_log_impl.cc(196)] [23:12:42.858] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[182076:187940:0727/231810.736:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[182076:187940:0727/231810.741:ERROR:command_buffer_proxy_impl.cc(132)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[74760:189172:0727/231810.777:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
