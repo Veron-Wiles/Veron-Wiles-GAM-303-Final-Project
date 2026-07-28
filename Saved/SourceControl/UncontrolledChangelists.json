@@ -157,18 +157,20 @@
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/IA_PlayerLook.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/IA_PlayerInteract.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/IA_PlayerDrop.uasset",
-				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/PC_PlayerController.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/PC_Player.uasset",
-				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/I_Interact.uasset",
-				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/IF_Interact.uasset",
-				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/INT_Interact.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interfaces/INT_Interact.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/BP_Health.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Level/MainLevel/E/CF/THPSR0N9P56C7G669MLBRD.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/BP_Gun.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Level/MainLevel/6/RB/NBI663IYFMVRVEMIZ5PW2H.uasset",
 				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Level/MainLevel/8/FF/54LAS8NZT0UI4RX5W2XC5A.uasset",
-				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Level/MainLevel/7/MH/HYQRLLUBTTMG15FVFRC1PD.uasset"
+				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Level/MainLevel/7/MH/HYQRLLUBTTMG15FVFRC1PD.uasset",
+				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
+				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Level/MainLevel/3/4S/IUKA3J7Q5F01VRJQMD8ZAB.uasset",
+				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/PC_PlayerController.uasset",
+				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/I_Interact.uasset",
+				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/IF_Interact.uasset",
+				"C:/Users/veron/OneDrive/Documents/Unreal Projects/MyProject/Content/Interactables/INT_Interact.uasset"
 			]
 		}
 	]
